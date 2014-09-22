@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.wordpress.michaelkyazze.codeperspective102.MainActivity" >
+
+        
+       <item
+        android:id="@+id/action_view_contacts"
+        android:icon="@drawable/ic_action_rsz_profile"
+        android:showAsAction="always"
+        android:title="@string/action_view_contacts"/>
+
+</menu>
